@@ -21,13 +21,7 @@ https://github.com/kurnianggoro/GSOC2017/blob/master/data/lbfmodel.yaml
 
 ## Output Sample
 
-<video width="320" height="240" controls>
-  <source src="pexels-ron-lach-7817602.mp4" type="video/mp4">
-</video>
-
-![](pexels-ron-lach-7817602.mp4)
-
-![](ouput_sample_image.png)
+https://user-images.githubusercontent.com/42128166/149404139-17c247d0-d8f0-45d9-aee9-f2c2736ee377.mp4
 
 (Video Source: https://www.pexels.com/video/woman-lying-down-with-plastic-7817602/)
 
